@@ -2,7 +2,7 @@
 
 Welcome to the **SMS Spam Detection** project! This repository contains a complete machine learning pipeline to classify SMS messages as **Spam** or **Not Spam** using Natural Language Processing (NLP) and traditional ML algorithms.
 
-![Spam Detection Banner](https://img.shields.io/badge/NLP-Text_Classification-blue) ![Build](https://img.shields.io/badge/Python-3.10+-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
+![Spam Detection Banner](https://img.shields.io/badge/NLP-Text_Classification-blue) ![Build](https://img.shields.io/badge/Python-3.12+-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -19,16 +19,11 @@ Spam messages are a nuisance! This project leverages data science and machine le
 
 ---
 
+## 📝 How to do it
 
----
+Some visuals from the link [Spam Detector](https://email-spam-detection-mbzwabnxvm2yurzqys22pq.streamlit.app/) I created to detect whether email/sms is a Spam or Not Spam:
 
-## How to do it
-
-Some visuals from the notebook:
-
-**Word Frequency in Spam vs Ham**
-
-| ![Spam Word Cloud](https://user-images.githubusercontent.com/placeholder/spam.png) | ![Ham Word Cloud](https://user-images.githubusercontent.com/placeholder/ham.png) |
+| ![Spam_screenshot](https://github.com/user-attachments/assets/cd8e08e9-1420-4e2a-bc74-ec2ae9c32337) | ![NotSpam](https://github.com/user-attachments/assets/e11d6049-822e-4c26-8047-6875a99bac06)|
 | :--------------------------------------------: | :------------------------------------------: |
 | *Spam Messages* | *Non-Spam (Ham) Messages* |
 
